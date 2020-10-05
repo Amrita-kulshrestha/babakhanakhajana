@@ -1,0 +1,15 @@
+Carousel {
+  height: 100px;
+}
+
+img {
+  height: 400px;
+}
+.Carousel_1 {
+  height: 50px;
+  width: 50px;
+  border-top: darkorange;
+  border-style: groove;
+  border-top-color: darkolivegreen;
+  border-top-left-radius: 20px;
+}
