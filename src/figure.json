@@ -1,0 +1,46 @@
+{
+  "figures": [
+    {
+      "_id": "Dal & Pulses",
+      "alt": "Dal & Pulses",
+      "image": "/images/dal.jpg",
+      "description": "Dal & Pulses"
+    },
+    {
+      "_id": "Oil",
+      "alt": "Oil & Ghee",
+      "image": "/images/shopping-basket.png",
+      "description": "Dal & Pulses"
+    },
+    {
+      "_id": "Detergent",
+      "alt": "Detergent",
+      "image": "/images/VimBar.jpg",
+      "description": "Dal & Pulses"
+    },
+    {
+      "_id": "Detergent",
+      "alt": "Detergent",
+      "image": "/images/VimBar.jpg",
+      "description": "Dal & Pulses"
+    },
+    {
+      "_id": "Detergent",
+      "alt": "Detergent",
+      "image": "/images/VimBar.jpg",
+      "description": "Dal & Pulses"
+    },
+    {
+      "_id": "Detergent",
+      "alt": "Detergent",
+      "image": "/images/VimBar.jpg",
+      "description": "Dal & Pulses"
+    },
+    {
+      "_id": "Floor",
+      "alt": "Atta",
+      "image": "/images/groceries.png",
+      "description": "Dal & Pulses"
+    }
+  ]
+}

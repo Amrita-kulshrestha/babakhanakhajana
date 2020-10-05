@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "_id": "MoongDal",
+      "title": "Moong Dal",
+      "image": "/images/moongdalsabut.jpg",
+      "description": "Ashirbad Atta",
+      "Price": 180,
+      "Quantity": ["500kg", "1kg", "2kg", "3kg", "4kg"]
+    },
+    {
+      "_id": "Noodles-2",
+      "title": "Noodles",
+      "image": "/images/noodles-2.jpg",
+      "description": "Ashirbad Atta",
+      "Price": 180,
+      "Quantity": 5
+    },
+    {
+      "_id": "Atta",
+      "title": "Atta",
+      "image": "/images/dal.jpg",
+      "description": "Ashirbad Atta",
+      "Price": 180,
+      "Quantity": ["5kg", "10kg"]
+    },
+    {
+      "_id": "Atta",
+      "title": "Atta",
+      "image": "/images/dal.jpg",
+      "description": "Ashirbad Atta",
+      "Price": 180,
+      "Quantity": ["5kg", "10kg"]
+    },
+    {
+      "_id": "MoongDal",
+      "title": "Moong Dal",
+      "image": "/images/moongdalsabut.jpg",
+      "description": "Ashirbad Atta",
+      "Price": 180,
+      "Quantity": 5
+    },
+    {
+      "_id": "MoongDal",
+      "title": "Moong Dal",
+      "image": "/images/moongdalsabut.jpg",
+      "description": "Ashirbad Atta",
+      "Price": 180,
+      "Quantity": 5
+    },
+    {
+      "_id": "MoongDal",
+      "title": "Moong Dal",
+      "image": "/images/moongdalsabut.jpg",
+      "description": "Ashirbad Atta",
+      "Price": 180,
+      "Quantity": 5
+    },
+    {
+      "_id": "MoongDal",
+      "title": "Moong Dal",
+      "image": "/images/moongdalsabut.jpg",
+      "description": "Ashirbad Atta",
+      "Price": 180,
+      "Quantity": 5
+    },
+    {
+      "_id": "MoongDal",
+      "title": "Moong Dal",
+      "image": "/images/moongdalsabut.jpg",
+      "description": "Ashirbad Atta",
+      "Price": 180,
+      "Quantity": 5
+    },
+    {
+      "_id": "MoongDal",
+      "title": "Moong Dal",
+      "image": "/images/moongdalsabut.jpg",
+      "description": "Ashirbad Atta",
+      "Price": 180,
+      "Quantity": 5
+    }
+  ]
+}

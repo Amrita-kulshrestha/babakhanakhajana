@@ -1,0 +1,25 @@
+.FormContainer {
+  margin-left: 0;
+  font-weight: 400;
+  background: #f1ffce78;
+  border: 1px solid #9b9eb35e;
+  box-shadow: 0 2px 3px rgba(26, 6, 37, 0.04);
+}
+#login {
+  background: rgb(221 241 199 / 52%);
+  width: 320px;
+  padding: 8% 0 0;
+  margin-left: 400px;
+  margin-top: 50px;
+  padding: 26px 24px 46px;
+}
+
+h21 {
+  display: block;
+  font-size: 2em;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
