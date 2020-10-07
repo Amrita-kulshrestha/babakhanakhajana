@@ -28,6 +28,10 @@ const App = () => {
             <Route exact path="/productcategory" component={Productcategory} />
             <Route exact path="/" component={Home} />
           </Switch>
+          <div className="HomeCategory">
+            <div>Shop by Category</div>
+            <Category></Category>
+          </div>
         </main>
         <footer>
           <UNavbar className="footer"></UNavbar>

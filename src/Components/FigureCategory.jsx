@@ -1,7 +1,7 @@
 import React from "react";
 import FigureItem from "./FigureItem";
 import figure from "../figure.json";
-// import "./index.css";
+import "../index.css";
 
 class FigureCategory extends React.Component {
   constructor() {

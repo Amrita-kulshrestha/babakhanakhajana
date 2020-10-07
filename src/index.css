@@ -21,7 +21,8 @@ body,
 
 header {
   grid-area: header;
-  background-color: #148800;
+  background-color: #93ff8c30;
+  /* #148800; */
   /* color: #fff; */
 }
 main {
@@ -55,6 +56,12 @@ footer {
   align-items: center;
   width: 80%;
   background-color: forestgreen;
+}
+.navbar-expand-sm .navbar-nav .nav-link {
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  border-bottom-left-radius: 25px;
+  border-top-right-radius: 25px;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -110,8 +117,8 @@ a:hover {
   flex-wrap: wrap;
 }
 .prop li {
-  flex: 0 1 25rem;
-  height: 47rem;
+  flex: 0 1 12rem;
+  height: 30rem;
   padding: 1rem;
 }
 .pro {
@@ -166,4 +173,15 @@ a:hover {
   font-size: 2rem;
   padding: 0;
   color: #fae7c8f8;
+}
+/* filter */
+.filter {
+  display: flex;
+  padding: 1rem;
+  justify-content: space-between;
+  margin: 1rem;
+  border-bottom: 0.1rem #0c4702 solid;
+}
+.filter {
+  flex: 1;
 }
