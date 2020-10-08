@@ -4,17 +4,34 @@ import data from "../data.json";
 import "../index.css";
 import LocalPagination from "./LocalPagination.jsx";
 import Filter from "./Filter.jsx";
+import Cart from "../Cart.jsx";
 
 class Products extends React.Component {
   constructor() {
     super();
     this.state = {
       products: data.products,
-      cartItems: [],
+      cartItems: localStorage.getItem("cartItems")
+        ? JSON.parse(localStorage.getItem("cartItems"))
+        : [],
       cate: "",
       qty: "",
     };
   }
+  createOrder = (order) => {
+    alert("need to save order for" + order.name);
+  };
+  removeFromCart = (product) => {
+    const cartItems = this.state.cartItems.slice();
+    this.setState({
+      cartItems: cartItems.filter((x) => x._id !== product._id),
+    });
+    localStorage.setItem(
+      "cartItems",
+      JSON.stringify(cartItems.filter((x) => x._id !== product._id))
+    );
+  };
+
   addtoCart = (product) => {
     const cartItems = this.state.cartItems.slice();
     let alreadyInCart = false;
@@ -27,6 +44,8 @@ class Products extends React.Component {
     if (!alreadyInCart) {
       cartItems.push({ ...product, count: 1 });
     }
+    this.setState({ cartItems });
+    localStorage.setItem("cartItems", JSON.stringify(cartItems));
   };
   sortProducts(event) {
     console.log(event.target.value);
@@ -58,11 +77,17 @@ class Products extends React.Component {
             sortProducts={this.sortProducts}
           ></Filter>
 
-          <ProductsItem products={this.state.products}></ProductsItem>
+          <ProductsItem
+            products={this.state.products}
+            addtoCart={this.addtoCart}
+          ></ProductsItem>
         </div>
         <div className="sidebar">
-          <LocalPagination></LocalPagination>
-          cart Item
+          <Cart
+            cartItems={this.state.cartItems}
+            removeFromCart={this.removeFromCart}
+            createOrder={this.createOrder}
+          ></Cart>
         </div>
       </div>
     );

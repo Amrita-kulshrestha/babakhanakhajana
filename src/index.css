@@ -27,6 +27,13 @@ header {
 }
 main {
   grid-area: main;
+  background-attachment: fixed;
+
+  background-image: linear-gradient(
+    rgba(4, 53, 23, 0.288),
+    rgba(4, 53, 23, 0.288)
+  );
+  /* url(./Components/logo512.jpg); */
 }
 footer {
   grid-area: footer;

@@ -10,6 +10,7 @@ import Productcategory from "./Productcategory.jsx";
 import { BrowserRouter as Switch, Route } from "react-router-dom";
 //import ULayout from "./Components/ULayout";
 import Admin from "./Admin/Admin";
+//import Headerlogo from "./Components/Headerlogo.jsx";
 const App = () => {
   return (
     <React.Fragment>
@@ -30,7 +31,7 @@ const App = () => {
           </Switch>
           <div className="HomeCategory">
             <div>Shop by Category</div>
-            <Category></Category>
+            {/* <Category></Category> */}
           </div>
         </main>
         <footer>

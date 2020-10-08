@@ -20,13 +20,13 @@ import { Nav } from "react-bootstrap";
 const navbar = () => {
   return (
     <Navbar collapseOnSelect expand="sm">
-      <Navbar.Brand href="/home"> Baba Khana Khajana</Navbar.Brand>
+      <Navbar.Brand href="/productcategory"> Baba Khana Khajana</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">
-          <Nav.Link href="/Home">Home</Nav.Link>
+          <Nav.Link href="/home">Home</Nav.Link>
           <Nav.Link href="/about">About</Nav.Link>
-          <Nav.Link href="/category">Category</Nav.Link>
+          <Nav.Link href="/Productcategory">Category</Nav.Link>
           <Nav.Link href="/contact">Contact Us</Nav.Link>
         </Nav>
       </Navbar.Collapse>
