@@ -20,7 +20,7 @@ import { Nav } from "react-bootstrap";
 const navbar = () => {
   return (
     <Navbar collapseOnSelect expand="sm">
-      <Navbar.Brand href="/productcategory"> Baba Khana Khajana</Navbar.Brand>
+      <Navbar.Brand href="/productcategory">&#9813; Baba Khana Khajana &#9813;</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">

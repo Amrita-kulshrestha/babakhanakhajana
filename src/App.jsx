@@ -1,18 +1,18 @@
 import React from "react";
 import Home from "./Home";
 import About from "./About";
+import "./App.css";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import UNavbar from "./Components/UNavbar";
 import Contact from "./Contact";
 import Category from "./Category";
 import Productcategory from "./Productcategory.jsx";
-//import Footer from "./Footer";
 import { BrowserRouter as Switch, Route } from "react-router-dom";
-//import ULayout from "./Components/ULayout";
 import Admin from "./Admin/Admin";
-//import Headerlogo from "./Components/Headerlogo.jsx";
-const App = () => {
-  return (
+import { Component } from "react";
+ class App extends Component {
+  render() {
+    return (
     <React.Fragment>
       <div className="grid-container">
         <header>
@@ -30,17 +30,18 @@ const App = () => {
             <Route exact path="/" component={Home} />
           </Switch>
           <div className="HomeCategory">
-            <div>Shop by Category</div>
-            {/* <Category></Category> */}
+            <div className="App-link">Shop by Category
+              And Cash On Delivery
+            </div>
           </div>
         </main>
         <footer>
           <UNavbar className="footer"></UNavbar>
-          All Rights is Reserved,
+          @2020 All Rights is Reserved, Designed by Katal Enough &#9728;
         </footer>
       </div>
-    </React.Fragment>
-  );
-};
-
+    </React.Fragment>    
+    )
+  }
+}
 export default App;

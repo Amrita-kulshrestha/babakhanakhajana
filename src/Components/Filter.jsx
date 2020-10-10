@@ -17,7 +17,7 @@ export default class Filter extends Component {
             <option value="3">Oil And Refined</option>
             <option value="4">Flour and Grains</option>
             <option value="5">Rice and Rice Product</option>
-            <option value="6">Masala And Spices</option>
+            <option value="6">Spices</option>
             <option value="7">Sugar Salt</option>
             <option value="8">Packed Foods</option>
             <option value="9">Personal Care</option>

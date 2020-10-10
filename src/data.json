@@ -239,7 +239,7 @@
       "title": "Arhar Dal",
       "image": "./images/MY list grocery Images/PulsesAndRice/ArharDal.jpg",
       "description": "ArharDal",
-      "category": ["4"],
+      "category": ["1"],
       "Price": 50,
       "Quantity": ["500gms"]
     },
@@ -257,7 +257,7 @@
       "title": "Dhuli Urad Dal",
       "image": "./images/MY list grocery Images/PulsesAndRice/DhuliUradDal.jpg",
       "description": "DhuliUradDal",
-      "category": ["4"],
+      "category": ["1"],
       "Price": 55,
       "Quantity": ["500gms"]
     },
@@ -275,7 +275,7 @@
       "title": "Masoor Dal",
       "image": "./images/MY list grocery Images/PulsesAndRice/MasoorDal.jpg",
       "description": "MasoorDal",
-      "category": ["4"],
+      "category": ["1"],
       "Price": 43,
       "Quantity": ["500gms"]
     },
@@ -284,7 +284,7 @@
       "title": "Moong Dhuli Dal",
       "image": "./images/MY list grocery Images/PulsesAndRice/MoongDhuliDal.jpg",
       "description": "MoongDhuliDal",
-      "category": ["4"],
+      "category": ["1"],
       "Price": 55,
       "Quantity": ["500gms"]
     },
@@ -311,7 +311,7 @@
       "title": "Sabut Moong Dal",
       "image": "./images/MY list grocery Images/PulsesAndRice/SabutMoongDal.jpg",
       "description": "SabutMoongDal",
-      "category": ["4"],
+      "category": ["1"],
       "Price": 55,
       "Quantity": ["500gms"]
     },
@@ -347,7 +347,7 @@
       "title": "Urad Dal",
       "image": "./images/MY list grocery Images/PulsesAndRice/UradDal.jpg",
       "description": "UradDal",
-      "category": ["4"],
+      "category": ["1"],
       "Price": 50,
       "Quantity": ["500gms"]
     },
@@ -435,7 +435,7 @@
     {
       "_id": "49",
       "title": "Cumin seeds jeera",
-      "image": "./images/MY list grocery Images/Spices/Cuminseedjeerajpg",
+      "image": "./images/MY list grocery Images/Spices/Cuminseedjeera.jpg",
       "description": "Cuminseedjeera",
       "category": ["6"],
       "Price": 44,
@@ -632,7 +632,7 @@
     },
     {
       "_id": "71",
-      "title": "Balajiallobhujia350gm",
+      "title": "Balaji allo bhujia 350gm",
       "image": "./images/MY list grocery Images/Miss/Balajiallobhujia350gm.jpg",
       "description": "Balajiallobhujia350gm",
       "category": ["8"],
