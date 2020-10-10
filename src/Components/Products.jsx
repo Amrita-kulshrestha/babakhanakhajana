@@ -2,7 +2,6 @@ import React from "react";
 import ProductsItem from "./ProductsItem.jsx";
 import data from "../data.json";
 import "../index.css";
-import LocalPagination from "./LocalPagination.jsx";
 import Filter from "./Filter.jsx";
 import Cart from "../Cart.jsx";
 

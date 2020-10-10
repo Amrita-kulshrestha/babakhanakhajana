@@ -9,7 +9,7 @@ export default class Filter extends Component {
         <div className="filter-sort">
           Type of category
           <select value={this.props.cate} onChange={this.props.filterProducts}>
-            <option value="" selected>
+            <option selected>
               select category...
             </option>
             <option value="1">Dal and Pulses</option>

@@ -4,7 +4,7 @@ import Carousel from "react-bootstrap/Carousel";
 import banner from "../imagesBanner/banner1.jpg";
 import banner1 from "../imagesBanner/banner2.jpg";
 import banner2 from "../imagesBanner/banner3.jpg";
-const carousel = () => {
+const Banner_Carousel = () => {
   return (
     <Carousel>
       <Carousel.Item>
@@ -19,4 +19,4 @@ const carousel = () => {
     </Carousel>
   );
 };
-export default carousel;
+export default Banner_Carousel;
