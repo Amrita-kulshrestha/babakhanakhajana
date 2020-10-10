@@ -1,14 +1,12 @@
 import React from "react";
-import FigureCategory from "./FigureCategory.jsx";
+import FigureCategory from "./Components/FigureCategory.jsx";
 
 //import { Container, Row, Col } from "react-bootstrap";
 
 const Category = () => {
   return (
     <>
-      <div className="figure">
-        <FigureCategory></FigureCategory>
-      </div>
+      <FigureCategory></FigureCategory>
     </>
   );
 };

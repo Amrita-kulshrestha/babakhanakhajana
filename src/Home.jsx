@@ -21,7 +21,7 @@ class home extends React.Component {
                 <h2>Fast Delivery on call also </h2>
                 <div className="mt-3">
                   <Button variant="secondary" size="lg">
-                    <a href="/category">Shop Now</a>
+                    <a href="/Productcategory">Shop Now</a>
                   </Button>
                 </div>
               </div>

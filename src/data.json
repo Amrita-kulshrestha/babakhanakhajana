@@ -1,84 +1,1085 @@
 {
   "products": [
     {
-      "_id": "MoongDal",
-      "title": "Moong Dal",
-      "image": "/images/moongdalsabut.jpg",
-      "description": "Ashirbad Atta",
-      "Price": 180,
-      "Quantity": ["500kg", "1kg", "2kg", "3kg", "4kg"]
+      "_id": "1",
+      "title": "Aquafina water",
+      "image": "./images/MY list grocery Images/Beverages/aquafinawater.jpg",
+      "description": "aquafinawater",
+      "category": ["11"],
+      "Price": 20,
+      "Quantity": ["1"]
     },
     {
-      "_id": "Noodles-2",
-      "title": "Noodles",
-      "image": "/images/noodles-2.jpg",
-      "description": "Ashirbad Atta",
-      "Price": 180,
-      "Quantity": 5
+      "_id": "2",
+      "title": "Frooti",
+      "image": "./images/MY list grocery Images/Beverages/Frooti.jpg",
+      "description": "Frooti",
+      "category": ["11"],
+      "Price": 95,
+      "Quantity": 1
     },
     {
-      "_id": "Atta",
-      "title": "Atta",
-      "image": "/images/dal.jpg",
-      "description": "Ashirbad Atta",
-      "Price": 180,
-      "Quantity": ["5kg", "10kg"]
+      "_id": "3",
+      "title": "Mountain Dew",
+      "image": "./images/MY list grocery Images/Beverages/MountainDew.jpg",
+      "description": "MountainDew",
+      "category": ["11"],
+      "Price": 40,
+      "Quantity": 1
     },
     {
-      "_id": "Atta",
-      "title": "Atta",
-      "image": "/images/dal.jpg",
-      "description": "Ashirbad Atta",
-      "Price": 180,
-      "Quantity": ["5kg", "10kg"]
+      "_id": "4",
+      "title": "Mountain Dew 2.25l",
+      "image": "./images/MY list grocery Images/Beverages/MoutainDew2.25l.jpg",
+      "description": "MountainDew2.25l",
+      "category": ["11"],
+      "Price": 85,
+      "Quantity": 1
     },
     {
-      "_id": "MoongDal",
-      "title": "Moong Dal",
-      "image": "/images/moongdalsabut.jpg",
-      "description": "Ashirbad Atta",
-      "Price": 180,
-      "Quantity": 5
+      "_id": "5",
+      "title": "Real Mixed fruit juice",
+      "image": "./images/MY list grocery Images/Beverages/RealMixedfruitjuice.jpg",
+      "description": "RealMixedfruitjuice",
+      "category": ["11"],
+      "Price": 100,
+      "Quantity": 1
     },
     {
-      "_id": "MoongDal",
-      "title": "Moong Dal",
-      "image": "/images/moongdalsabut.jpg",
-      "description": "Ashirbad Atta",
-      "Price": 180,
-      "Quantity": 5
+      "_id": "6",
+      "title": "Red Bull",
+      "image": "./images/MY list grocery Images/Beverages/RedBull.jpg",
+      "description": "RedBull",
+      "category": ["11"],
+      "Price": 105,
+      "Quantity": 1
     },
     {
-      "_id": "MoongDal",
-      "title": "Moong Dal",
-      "image": "/images/moongdalsabut.jpg",
-      "description": "Ashirbad Atta",
-      "Price": 180,
-      "Quantity": 5
+      "_id": "7",
+      "title": "Slice 600ml",
+      "image": "./images/MY list grocery Images/Beverages/Slice600ml.jpg",
+      "description": "Slice600ml",
+      "category": ["11"],
+      "Price": 35,
+      "Quantity": 1
     },
     {
-      "_id": "MoongDal",
-      "title": "Moong Dal",
-      "image": "/images/moongdalsabut.jpg",
-      "description": "Ashirbad Atta",
-      "Price": 180,
-      "Quantity": 5
+      "_id": "8",
+      "title": "ThumsUp 1.25ltr",
+      "image": "./images/MY list grocery Images/Beverages/ThumsUp1.25ltr.jpg",
+      "description": "ThumsUp1.25ltr",
+      "category": ["11"],
+      "Price": 60,
+      "Quantity": 1
     },
     {
-      "_id": "MoongDal",
-      "title": "Moong Dal",
-      "image": "/images/moongdalsabut.jpg",
-      "description": "Ashirbad Atta",
-      "Price": 180,
-      "Quantity": 5
+      "_id": "9",
+      "title": "ThumsUp 2l",
+      "image": "./images/MY list grocery Images/Beverages/ThumsUp2Ltr.jpg",
+      "description": "ThumsUp2Ltr",
+      "category": ["11"],
+      "Price": 88,
+      "Quantity": 1
     },
     {
-      "_id": "MoongDal",
-      "title": "Moong Dal",
-      "image": "/images/moongdalsabut.jpg",
-      "description": "Ashirbad Atta",
-      "Price": 180,
-      "Quantity": 5
+      "_id": "10",
+      "title": "ThumsUp 250ml",
+      "image": "./images/MY list grocery Images/Beverages/ThumsUp250ml.jpg",
+      "description": "ThumsUp250ml",
+      "category": ["11"],
+      "Price": 20,
+      "Quantity": 1
+    },
+    {
+      "_id": "11",
+      "title": "ThumsUp 750ml",
+      "image": "./images/MY list grocery Images/Beverages/ThumsUp750ml.jpg",
+      "description": "ThumsUp750ml",
+      "category": ["11"],
+      "Price": 40,
+      "Quantity": 1
+    },
+    {
+      "_id": "12",
+      "title": "Almonds",
+      "image": "./images/MY list grocery Images/DryFruits/Almonds.jpg",
+      "description": "Almonds",
+      "category": ["2"],
+      "Price": 190,
+      "Quantity": ["500gms"]
+    },
+    {
+      "_id": "13",
+      "title": "Chuara",
+      "image": "./images/MY list grocery Images/DryFruits/Chuara.jpg",
+      "description": "Chuara",
+      "category": ["2"],
+      "Price": 65,
+      "Quantity": ["250gms"]
+    },
+    {
+      "_id": "14",
+      "title": "Classic Cashew",
+      "image": "./images/MY list grocery Images/DryFruits/ClassicCashewSabut250gm.jpg",
+      "description": "ClassicCashewSabut250gm",
+      "category": ["2"],
+      "Price": 279,
+      "Quantity": ["200gms"]
+    },
+    {
+      "_id": "15",
+      "title": "Dry Coconut",
+      "image": "./images/MY list grocery Images/DryFruits/DryCoconut.jpg",
+      "description": "DryCoconut",
+      "category": ["2"],
+      "Price": 40,
+      "Quantity": ["200gms"]
+    },
+    {
+      "_id": "16",
+      "title": "Hare Krishna Cashew",
+      "image": "./images/MY list grocery Images/DryFruits/HareKrishnaCashew.jpg",
+      "description": "HareKrishnaCashew",
+      "category": ["2"],
+      "Price": 220,
+      "Quantity": 1
+    },
+    {
+      "_id": "17",
+      "title": "Loose Kismis",
+      "image": "./images/MY list grocery Images/DryFruits/LooseKismis.jpg",
+      "description": "LooseKismis",
+      "category": ["2"],
+      "Price": 33,
+      "Quantity": ["100gms"]
+    },
+    {
+      "_id": "18",
+      "title": "Makhane",
+      "image": "./images/MY list grocery Images/DryFruits/Makhane.jpg",
+      "description": "Makhane",
+      "category": ["2"],
+      "Price": 62,
+      "Quantity": ["100gms"]
+    },
+    {
+      "_id": "19",
+      "title": "Navkaar Munakka",
+      "image": "./images/MY list grocery Images/DryFruits/NavkaarMunakka.jpg",
+      "description": "NavkaarMunakka",
+      "category": ["2"],
+      "Price": 100,
+      "Quantity": ["250gms"]
+    },
+    {
+      "_id": "20",
+      "title": "Peanuts",
+      "image": "./images/MY list grocery Images/DryFruits/Peanuts.jpg",
+      "description": "Peanuts",
+      "category": ["2"],
+      "Price": 72,
+      "Quantity": ["500gms"]
+    },
+    {
+      "_id": "21",
+      "title": "Aashirvaad Atta 10kg",
+      "image": "./images/MY list grocery Images/Flours/AashirvaadAtta.jpg",
+      "description": "AashirvaadAtta",
+      "category": ["4"],
+      "Price": 355,
+      "Quantity": 1
+    },
+    {
+      "_id": "22",
+      "title": "Loose Atta",
+      "image": "./images/MY list grocery Images/Flours/LooseAtta.jpg",
+      "description": "LooseAtta",
+      "category": ["4"],
+      "Price": 30,
+      "Quantity": ["1kg"]
+    },
+    {
+      "_id": "23",
+      "title": "Parivar Atta 10kg",
+      "image": "./images/MY list grocery Images/Flours/ParivarAtta.jpg",
+      "description": "ParivarAtta",
+      "category": ["4"],
+      "Price": 300,
+      "Quantity": 1
+    },
+    {
+      "_id": "24",
+      "title": "Damru Sesame Oil 1Liter",
+      "image": "./images/MY list grocery Images/OilAndRefined/DamruSesameOil.jpg",
+      "description": "DamruSesameOil",
+      "category": ["3"],
+      "Price": 123,
+      "Quantity": 1
+    },
+    {
+      "_id": "25",
+      "title": "Fortune Refined Soyabean Oil",
+      "image": "./images/MY list grocery Images/OilAndRefined/FortuneRefinedSoyabeanOil.jpg",
+      "description": "FortuneRefinedSoyabeanOil",
+      "category": ["3"],
+      "Price": 106,
+      "Quantity": 1
+    },
+    {
+      "_id": "26",
+      "title": "Patanjali Mustard Oil 1Liter",
+      "image": "./images/MY list grocery Images/OilAndRefined/PatanjaliMustardOil.jpg",
+      "description": "PatanjaliMustardOil",
+      "category": ["3"],
+      "Price": 130,
+      "Quantity": 1
+    },
+    {
+      "_id": "27",
+      "title": "Arhar Dal",
+      "image": "./images/MY list grocery Images/PulsesAndRice/ArharDal.jpg",
+      "description": "ArharDal",
+      "category": ["1"],
+      "Price": 50,
+      "Quantity": ["500gms"]
+    },
+    {
+      "_id": "28",
+      "title": "Desi Chana",
+      "image": "./images/MY list grocery Images/PulsesAndRice/DesiChana.jpg",
+      "description": "DesiChana",
+      "category": ["4"],
+      "Price": 40,
+      "Quantity": ["500gms"]
+    },
+    {
+      "_id": "29",
+      "title": "Dhuli Urad Dal",
+      "image": "./images/MY list grocery Images/PulsesAndRice/DhuliUradDal.jpg",
+      "description": "DhuliUradDal",
+      "category": ["1"],
+      "Price": 55,
+      "Quantity": ["500gms"]
+    },
+    {
+      "_id": "30",
+      "title": "Kabuli Chana",
+      "image": "./images/MY list grocery Images/PulsesAndRice/KabuliChana.jpg",
+      "description": "KabuliChana",
+      "category": ["4"],
+      "Price": 45,
+      "Quantity": ["500gms"]
+    },
+    {
+      "_id": "31",
+      "title": "Masoor Dal",
+      "image": "./images/MY list grocery Images/PulsesAndRice/MasoorDal.jpg",
+      "description": "MasoorDal",
+      "category": ["1"],
+      "Price": 43,
+      "Quantity": ["500gms"]
+    },
+    {
+      "_id": "32",
+      "title": "Moong Dhuli Dal",
+      "image": "./images/MY list grocery Images/PulsesAndRice/MoongDhuliDal.jpg",
+      "description": "MoongDhuliDal",
+      "category": ["1"],
+      "Price": 55,
+      "Quantity": ["500gms"]
+    },
+    {
+      "_id": "33",
+      "title": "Rajma Chitra",
+      "image": "./images/MY list grocery Images/PulsesAndRice/RajmaChitra.jpg",
+      "description": "RajmaChitra",
+      "category": ["4"],
+      "Price": 60,
+      "Quantity": ["500gms"]
+    },
+    {
+      "_id": "34",
+      "title": "Sabut Masoor Malka Dal",
+      "image": "./images/MY list grocery Images/PulsesAndRice/SabutMasoorMalkaDal.jpg",
+      "description": "SabutMasoorMalkaDal",
+      "category": ["4"],
+      "Price": 40,
+      "Quantity": ["500gms"]
+    },
+    {
+      "_id": "35",
+      "title": "Sabut Moong Dal",
+      "image": "./images/MY list grocery Images/PulsesAndRice/SabutMoongDal.jpg",
+      "description": "SabutMoongDal",
+      "category": ["1"],
+      "Price": 55,
+      "Quantity": ["500gms"]
+    },
+    {
+      "_id": "36",
+      "title": "Shahi Dinner Rice",
+      "image": "./images/MY list grocery Images/PulsesAndRice/ShahiDinnerRice.jpg",
+      "description": "ShahiDinnerRice",
+      "category": ["4"],
+      "Price": 55,
+      "Quantity": ["1kg"]
+    },
+    {
+      "_id": "37",
+      "title": "Tibar Basmati Rice",
+      "image": "./images/MY list grocery Images/PulsesAndRice/TibarBasmatiRice.jpg",
+      "description": "TibarBasmatiRice",
+      "category": ["4"],
+      "Price": 45,
+      "Quantity": ["1kg"]
+    },
+    {
+      "_id": "38",
+      "title": "TulsiBasmatiRice",
+      "image": "./images/MY list grocery Images/PulsesAndRice/TulsiBasmatiRice .jpg",
+      "description": "TulsiBasmatiRice",
+      "category": ["4"],
+      "Price": 75,
+      "Quantity": ["1kg"]
+    },
+    {
+      "_id": "39",
+      "title": "Urad Dal",
+      "image": "./images/MY list grocery Images/PulsesAndRice/UradDal.jpg",
+      "description": "UradDal",
+      "category": ["1"],
+      "Price": 50,
+      "Quantity": ["500gms"]
+    },
+    {
+      "_id": "40",
+      "title": "Catch Coriander  Powder 200gms",
+      "image": "./images/MY list grocery Images/Spices/CatchCoriander Powder200gms.jpg",
+      "description": "CatchCoriander Powder200gms",
+      "category": ["6"],
+      "Price": 55,
+      "Quantity": 1
+    },
+    {
+      "_id": "41",
+      "title": "Catch Coriander Powder 100gms",
+      "image": "./images/MY list grocery Images/Spices/CatchCorianderPowder100gms.jpg",
+      "description": "CatchCorianderPowder100gms",
+      "category": ["6"],
+      "Price": 28,
+      "Quantity": 1
+    },
+    {
+      "_id": "42",
+      "title": "Catch Jeera Powder 100gms",
+      "image": "./images/MY list grocery Images/Spices/CatchJeeraPowder100gms.jpg",
+      "description": "CatchJeeraPowder100gms",
+      "category": ["6"],
+      "Price": 52,
+      "Quantity": 1
+    },
+    {
+      "_id": "43",
+      "title": "Catch Pav Bhaji Masala",
+      "image": "./images/MY list grocery Images/Spices/CatchPavBhajiMasala.jpg",
+      "description": "CatchPavBhajiMasala",
+      "category": ["6"],
+      "Price": 32,
+      "Quantity": 1
+    },
+    {
+      "_id": "44",
+      "title": "Catch Red Chilli Powder 100gms",
+      "image": "./images/MY list grocery Images/Spices/CatchJeeraPowder100gms.jpg",
+      "description": "CatchRedChilliPowder100gms",
+      "category": ["6"],
+      "Price": 38,
+      "Quantity": 1
+    },
+    {
+      "_id": "45",
+      "title": "Catch Red Chilli Powder 200gms",
+      "image": "./images/MY list grocery Images/Spices/CatchRedChilliPowder200gms.jpg",
+      "description": "CatchRedChilliPowder200gms",
+      "category": ["6"],
+      "Price": 74,
+      "Quantity": 1
+    },
+    {
+      "_id": "46",
+      "title": "Catch Sabji Masala",
+      "image": "./images/MY list grocery Images/Spices/CatchSabjiMasala.jpg",
+      "description": "CatchSabjiMasala",
+      "category": ["6"],
+      "Price": 50,
+      "Quantity": 1
+    },
+    {
+      "_id": "47",
+      "title": "Catch Turmeric 100gms",
+      "image": "./images/MY list grocery Images/Spices/CatchTurmeric100gms.jpg",
+      "description": "CatchTurmeric100gms",
+      "category": ["6"],
+      "Price": 27,
+      "Quantity": 1
+    },
+    {
+      "_id": "48",
+      "title": "Catch Turmeric 200gms",
+      "image": "./images/MY list grocery Images/Spices/CatchTurmeric200gms.jpg",
+      "description": "CatchTurmeric200gms",
+      "category": ["6"],
+      "Price": 54,
+      "Quantity": 1
+    },
+    {
+      "_id": "49",
+      "title": "Cumin seeds jeera",
+      "image": "./images/MY list grocery Images/Spices/Cuminseedjeera.jpg",
+      "description": "Cuminseedjeera",
+      "category": ["6"],
+      "Price": 44,
+      "Quantity": ["200gms"]
+    },
+    {
+      "_id": "50",
+      "title": "Dalchini",
+      "image": "./images/MY list grocery Images/Spices/Dalchini.jpg",
+      "description": "Dalchini",
+      "category": ["6"],
+      "Price": 38,
+      "Quantity": ["100gms"]
+    },
+    {
+      "_id": "51",
+      "title": "Gulshan kaali Mirch 100gms",
+      "image": "./images/MY list grocery Images/Spices/GulshankaaliMirch100gms.jpg",
+      "description": "GulshankaaliMirch100gms",
+      "category": ["6"],
+      "Price": 90,
+      "Quantity": 1
+    },
+    {
+      "_id": "52",
+      "title": "Gulshan Peeli Mirch 1kg",
+      "image": "./images/MY list grocery Images/Spices/GulshanPeeliMirch1kg.jpg",
+      "description": "GulshanPeeliMirch1kg",
+      "category": ["6"],
+      "Price": 170,
+      "Quantity": 1
+    },
+    {
+      "_id": "53",
+      "title": "Kaale til",
+      "image": "./images/MY list grocery Images/Spices/Kaaletil.jpg",
+      "description": "Kaaletil",
+      "category": ["6"],
+      "Price": 44,
+      "Quantity": ["200gms"]
+    },
+    {
+      "_id": "54",
+      "title": "MDH Chana Masala",
+      "image": "./images/MY list grocery Images/Spices/MDHChanaMasala.jpg",
+      "description": "MDHChanaMasala",
+      "category": ["6"],
+      "Price": 60,
+      "Quantity": 1
+    },
+    {
+      "_id": "55",
+      "title": "MDH Garam Masala",
+      "image": "./images/MY list grocery Images/Spices/MDHGaramMasala.jpg",
+      "description": "MDHGaramMasala",
+      "category": ["6"],
+      "Price": 75,
+      "Quantity": 1
+    },
+    {
+      "_id": "56",
+      "title": "MDH Kitchen King Masala",
+      "image": "./images/MY list grocery Images/Spices/MDHKitchenKingMasala.jpg",
+      "description": "MDHKitchenKingMasala",
+      "category": ["6"],
+      "Price": 65,
+      "Quantity": 1
+    },
+    {
+      "_id": "57",
+      "title": "MDH Meat Masalal",
+      "image": "./images/MY list grocery Images/Spices/MDHMeatMasala.jpg",
+      "description": "MDHMeatMasala",
+      "category": ["6"],
+      "Price": 37,
+      "Quantity": 1
+    },
+    {
+      "_id": "58",
+      "title": "Methi Dana",
+      "image": "./images/MY list grocery Images/Spices/MethiDana.jpg",
+      "description": "MethiDana",
+      "category": ["6"],
+      "Price": 22,
+      "Quantity": ["200gms"]
+    },
+    {
+      "_id": "59",
+      "title": "Panch Meva",
+      "image": "./images/MY list grocery Images/Spices/PanchMeva.jpg",
+      "description": "PanchMeva",
+      "category": ["2"],
+      "Price": 10,
+      "Quantity": 1
+    },
+    {
+      "_id": "60",
+      "title": "Rai",
+      "image": "./images/MY list grocery Images/Spices/Rai.jpg",
+      "category": ["6"],
+      "description": "Rai",
+      "Price": 25,
+      "Quantity": ["250gms"]
+    },
+    {
+      "_id": "61",
+      "title": "Sabut Dhaniya",
+      "image": "./images/MY list grocery Images/Spices/SabutDhaniya.jpg",
+      "description": "SabutDhaniya",
+      "category": ["6"],
+      "Price": 25,
+      "Quantity": ["200gms"]
+    },
+    {
+      "_id": "62",
+      "title": "Sabut haldi",
+      "image": "./images/MY list grocery Images/Spices/Sabuthaldi.jpg",
+      "description": "Sabuthaldi",
+      "category": ["6"],
+      "Price": 22,
+      "Quantity": ["200gms"]
+    },
+    {
+      "_id": "63",
+      "title": "Sabut Lal Mirch",
+      "image": "./images/MY list grocery Images/Spices/SabutLalMirch.jpg",
+      "description": "SabutLalMirch",
+      "category": ["6"],
+      "Price": 20,
+      "Quantity": ["100gms"]
+    },
+    {
+      "_id": "64",
+      "title": "Tez Pattal",
+      "image": "./images/MY list grocery Images/Spices/TezPatta.jpg",
+      "description": "TezPatta",
+      "category": ["6"],
+      "Price": 15,
+      "Quantity": ["100gms"]
+    },
+    {
+      "_id": "65",
+      "title": "24 carats daliya 500gm",
+      "image": "./images/MY list grocery Images/Miss/24caratsdaliya500gm.jpg",
+      "description": "24caratsdaliya500gm",
+      "category": ["8"],
+      "Price": 28,
+      "Quantity": 1
+    },
+    {
+      "_id": "66",
+      "title": "Wagh bakri tea 250gm",
+      "image": "./images/MY list grocery Images/Miss/Waghbakritea250gm.jpg",
+      "description": "Waghbakritea250gm",
+      "category": ["8"],
+      "Price": 110,
+      "Quantity": 1
+    },
+    {
+      "_id": "67",
+      "title": "ajanta baking powder 100gm",
+      "image": "./images/MY list grocery Images/Miss/ajantabakingpowder100gm.jpg",
+      "description": "ajantabakingpowder100gm",
+      "category": ["6"],
+      "Price": 20,
+      "Quantity": 1
+    },
+    {
+      "_id": "68",
+      "title": "Alloutultrarefile45ml",
+      "image": "./images/MY list grocery Images/Miss/Alloutultrarefile45ml.jpg",
+      "description": "Alloutultrarefile45ml",
+      "category": ["9"],
+      "Price": 72,
+      "Quantity": 1
+    },
+    {
+      "_id": "69",
+      "title": "AnandaGhee 1kg",
+      "image": "./images/MY list grocery Images/Miss/AnandaGhee.jpg",
+      "description": "AnandaGhee",
+      "category": ["3"],
+      "Price": 450,
+      "Quantity": 1
+    },
+    {
+      "_id": "70",
+      "title": "Bajaj almond hair oil 200ml",
+      "image": "./images/MY list grocery Images/Miss/Bajajalmondhairoil200ml.jpg",
+      "description": "Bajajalmondhairoil200ml",
+      "category": ["9"],
+      "Price": 120,
+      "Quantity": 1
+    },
+    {
+      "_id": "71",
+      "title": "Balaji allo bhujia 350gm",
+      "image": "./images/MY list grocery Images/Miss/Balajiallobhujia350gm.jpg",
+      "description": "Balajiallobhujia350gm",
+      "category": ["8"],
+      "Price": 70,
+      "Quantity": 1
+    },
+    {
+      "_id": "72",
+      "title": "Batasay",
+      "image": "./images/MY list grocery Images/Miss/Batasay.jpg",
+      "description": "Batasay",
+      "category": ["7"],
+      "Price": 30,
+      "Quantity": ["500gms"]
+    },
+    {
+      "_id": "73",
+      "title": "Bikaji kaju kismis mix 350gm",
+      "image": "./images/MY list grocery Images/Miss/Bikajikajukismismix350gm.jpg",
+      "description": "Bikajikajukismismix350gm",
+      "category": ["8"],
+      "Price": 105,
+      "Quantity": 1
+    },
+    {
+      "_id": "74",
+      "title": "Bikaneri boondi 400gm",
+      "image": "./images/MY list grocery Images/Miss/Bikaneriboondi400gm.jpg",
+      "description": "Bikaneriboondi400gm",
+      "category": ["8"],
+      "Price": 50,
+      "Quantity": 1
+    },
+    {
+      "_id": "75",
+      "title": "BournVita 500gms",
+      "image": "./images/MY list grocery Images/Miss/BournVita.jpg",
+      "description": "BournVita",
+      "category": ["9"],
+      "Price": 220,
+      "Quantity": 1
+    },
+    {
+      "_id": "76",
+      "title": "Bura",
+      "image": "./images/MY list grocery Images/Miss/Bura.jpg",
+      "description": "Bura",
+      "category": ["7"],
+      "Price": 25,
+      "Quantity": ["500"]
+    },
+    {
+      "_id": "77",
+      "title": "Cadbury Oreo 120gm",
+      "image": "./images/MY list grocery Images/Miss/CadburyOreo120gm.jpg",
+      "description": "CadburyOreo120gm",
+      "category": ["8"],
+      "Price": 30,
+      "Quantity": 1
+    },
+    {
+      "_id": "78",
+      "title": "Dabur Honey 250gms",
+      "image": "./images/MY list grocery Images/Miss/DaburHoney.jpg",
+      "description": "DaburHoney",
+      "category": ["8"],
+      "Price": 99,
+      "Quantity": 1
+    },
+    {
+      "_id": "79",
+      "title": "Denver 165ml",
+      "image": "./images/MY list grocery Images/Miss/Denver165ml.jpg",
+      "description": "Denver165ml",
+      "category": ["9"],
+      "Price": 195,
+      "Quantity": 1
+    },
+    {
+      "_id": "80",
+      "title": "eno pack of 6 poches",
+      "image": "./images/MY list grocery Images/Miss/enopackof6poches.jpg",
+      "description": "enopackof6poches",
+      "category": ["8"],
+      "Price": 42,
+      "Quantity": 1
+    },
+    {
+      "_id": "81",
+      "title": "Fogg Marco Fragrance Spray 120ml",
+      "image": "./images/MY list grocery Images/Miss/foggmarcofragnanacespray120ml.jpg",
+      "description": "foggmarcofragnanacespray120ml",
+      "category": ["9"],
+      "Price": 175,
+      "Quantity": 1
+    },
+    {
+      "_id": "82",
+      "title": "Ghari Detergent 1kg",
+      "image": "./images/MY list grocery Images/Miss/GhariDetergent.jpg",
+      "description": "GhariDetergent",
+      "category": ["10"],
+      "Price": 55,
+      "Quantity": 1
+    },
+    {
+      "_id": "83",
+      "title": "GoodknightGoldFlash",
+      "image": "./images/MY list grocery Images/Miss/GoodknightGoldFlash.jpg",
+      "description": "GoodknightGoldFlash",
+      "category": ["9"],
+      "Price": 187,
+      "Quantity": 1
+    },
+    {
+      "_id": "84",
+      "title": "Good knight power active 45ml",
+      "image": "./images/MY list grocery Images/Miss/Goodknightpoweractiv45ml.jpg",
+      "description": "Goodknightpoweractiv45ml",
+      "category": ["9"],
+      "Price": 72,
+      "Quantity": 1
+    },
+    {
+      "_id": "85",
+      "title": "Haldiram aloo bhujia 200gm",
+      "image": "./images/MY list grocery Images/Miss/Haldiramaloobhujia200gm.jpg",
+      "description": "Haldiramaloobhujia200gm",
+      "category": ["8"],
+      "Price": 44,
+      "Quantity": 1
+    },
+    {
+      "_id": "86",
+      "title": "Haldiram khatta meetha namkeen 200gm",
+      "image": "./images/MY list grocery Images/Miss/Haldiramkhattameethanamkeen200gm.jpg",
+      "description": "Haldiramkhattameethanamkeen200gm",
+      "category": ["8"],
+      "Price": 42,
+      "Quantity": 1
+    },
+    {
+      "_id": "87",
+      "title": "Haldiram Navratan Namkeen 200gm",
+      "image": "./images/MY list grocery Images/Miss/HaldiramNavratanNamkeen200gm.jpg",
+      "description": "HaldiramNavratanNamkeen200gm",
+      "category": ["8"],
+      "Price": 42,
+      "Quantity": 1
+    },
+    {
+      "_id": "88",
+      "title": "Harpic",
+      "image": "./images/MY list grocery Images/Miss/Harpic.jpg",
+      "description": "Harpic",
+      "category": ["10"],
+      "Price": 148,
+      "Quantity": 1
+    },
+    {
+      "_id": "89",
+      "title": "Jaggery",
+      "image": "./images/MY list grocery Images/Miss/Jaggery.jpg",
+      "description": "Jaggery",
+      "category": ["7"],
+      "Price": 50,
+      "Quantity": ["1kg"]
+    },
+    {
+      "_id": "90",
+      "title": "Jugal bakery jeera cookies",
+      "image": "./images/MY list grocery Images/Miss/Jugalbakeryjeeracookies.jpg",
+      "description": "Jugalbakeryjeeracookies",
+      "category": ["8"],
+      "Price": 50,
+      "Quantity": 1
+    },
+    {
+      "_id": "91",
+      "title": "Jugal bakery kaju biscuit",
+      "image": "./images/MY list grocery Images/Miss/Jugalbakerykajubiscuit.jpg",
+      "description": "Jugalbakerykajubiscuit",
+      "Price": 60,
+      "category": ["8"],
+      "Quantity": 1
+    },
+    {
+      "_id": "92",
+      "title": "Jugal elaichi And Suji rusk 500gm",
+      "image": "./images/MY list grocery Images/Miss/JugalelaichiAndSujirusk500gm.jpg",
+      "description": "JugalelaichiAndSujirusk500gm",
+      "category": ["8"],
+      "Price": 70,
+      "Quantity": 1
+    },
+    {
+      "_id": "93",
+      "title": "Kissan Fresh Tomato 425 gms",
+      "image": "./images/MY list grocery Images/Miss/KissanFreshTomato.jpg",
+      "description": "KissanFreshTomato",
+      "category": ["8"],
+      "Price": 50,
+      "Quantity": 1
+    },
+    {
+      "_id": "94",
+      "title": "Lijjat Papad",
+      "image": "./images/MY list grocery Images/Miss/LijjatPapad.jpg",
+      "description": "LijjatPapad",
+      "category": ["8"],
+      "Price": 60,
+      "Quantity": 1
+    },
+    {
+      "_id": "95",
+      "title": "Madhusudan Desi Ghee 1kg",
+      "image": "./images/MY list grocery Images/Miss/MadhusudanDesiGhee.jpg",
+      "description": "MadhusudanDesiGhee",
+      "category": ["3"],
+      "Price": 450,
+      "Quantity": 1
+    },
+    {
+      "_id": "96",
+      "title": "Neha Mehndi 250gm",
+      "image": "./images/MY list grocery Images/Miss/NehaMehndi250gm.jpg",
+      "description": "NehaMehndi250gm",
+      "category": ["9"],
+      "Price": 70,
+      "Quantity": 1
+    },
+    {
+      "_id": "97",
+      "title": "Nihar Natural Shanti Amla hair Oil 500ml",
+      "image": "./images/MY list grocery Images/Miss/NiharNaturalShantiAmlahairOil500ml.jpg",
+      "description": "NiharNaturalShantiAmlahairOil500ml",
+      "category": ["9"],
+      "Price": 145,
+      "Quantity": 1
+    },
+    {
+      "_id": "98",
+      "title": "Parachute Coconut Oil 175ml",
+      "image": "./images/MY list grocery Images/Miss/ParachuteCoconutOil175ml.jpg",
+      "description": "ParachuteCoconutOil175ml",
+      "category": ["9"],
+      "Price": 70,
+      "Quantity": 1
+    },
+    {
+      "_id": "99",
+      "title": "Parle G 200gm",
+      "image": "./images/MY list grocery Images/Miss/ParleG200gm.jpg",
+      "description": "ParleG200gm",
+      "category": ["8"],
+      "Price": 20,
+      "Quantity": 1
+    },
+    {
+      "_id": "100",
+      "title": "Radhani Besan",
+      "image": "./images/MY list grocery Images/Miss/RadhaniBesan.jpg",
+      "description": "RadhaniBesan",
+      "category": ["8"],
+      "Price": 50,
+      "Quantity": 1
+    },
+    {
+      "_id": "101",
+      "title": "red label tea 250gm",
+      "image": "./images/MY list grocery Images/Miss/Redlabeltea250gm.jpg",
+      "description": "Redlabeltea250gm",
+      "category": ["8"],
+      "Price": 105,
+      "Quantity": 1
+    },
+    {
+      "_id": "102",
+      "title": "Rin Detergent",
+      "image": "./images/MY list grocery Images/Miss/RinDetergent.jpg",
+      "description": "RinDetergent",
+      "category": ["10"],
+      "Price": 65,
+      "Quantity": ["1kg"]
+    },
+    {
+      "_id": "103",
+      "title": "Rooh afza",
+      "image": "./images/MY list grocery Images/Miss/Roohofjaa.jpg",
+      "description": "Roohofjaa",
+      "category": ["11"],
+      "Price": 145,
+      "Quantity": ["750ml"]
+    },
+    {
+      "_id": "104",
+      "title": "Saffola Oats 500gms",
+      "image": "./images/MY list grocery Images/Miss/SaffolaOats.jpg",
+      "description": "SaffolaOats",
+      "category": ["8"],
+      "Price": 170,
+      "Quantity": 1
+    },
+    {
+      "_id": "105",
+      "title": "Select Maida",
+      "image": "./images/MY list grocery Images/Miss/24caratsdaliya500gm.jpg",
+      "description": "SelectMaida",
+      "category": ["8"],
+      "Price": 35,
+      "Quantity": 1
+    },
+    {
+      "_id": "106",
+      "title": "Surfexcel 1kg",
+      "image": "./images/MY list grocery Images/Miss/Surfexcel.jpg",
+      "description": "Surfexcel",
+      "category": ["11"],
+      "Price": 185,
+      "Quantity": 1
+    },
+    {
+      "_id": "107",
+      "title": "TaTa Salt 1kg",
+      "image": "./images/MY list grocery Images/Miss/TaTaSalt.jpg",
+      "description": "TaTaSalt",
+      "category": ["7"],
+      "Price": 19,
+      "Quantity": 1
+    },
+    {
+      "_id": "108",
+      "title": "Tata Tea premium 250gm",
+      "image": "./images/MY list grocery Images/Miss/TataTeapremium250gm.jpg",
+      "description": "TataTeapremium250gm",
+      "category": ["8"],
+      "Price": 100,
+      "Quantity": 1
+    },
+    {
+      "_id": "109",
+      "title": "Today Star Tea 250gm",
+      "image": "./images/MY list grocery Images/Miss/TodayStarTea250gm.jpg",
+      "description": "TodayStarTea250gm",
+      "category": ["8"],
+      "Price": 50,
+      "Quantity": 1
+    },
+    {
+      "_id": "110",
+      "title": "Tops Gold Lime Pickle 375 gms",
+      "image": "./images/MY list grocery Images/Miss/TopsGoldLimePickle.jpg",
+      "description": "TopsGoldLimePickle",
+      "category": ["8"],
+      "Price": 105,
+      "Quantity": 1
+    },
+    {
+      "_id": "111",
+      "title": "Tops Gold Mango Pickle 950gms",
+      "image": "./images/MY list grocery Images/Miss/TopsGoldMangoPickle.jpg",
+      "description": "TopsGoldMangoPickle",
+      "category": ["8"],
+      "Price": 152,
+      "Quantity": 1
+    },
+    {
+      "_id": "112",
+      "title": "Tops Green Chilli 650gms",
+      "image": "./images/MY list grocery Images/Miss/TopsGreenChilli.jpg",
+      "description": "TopsGreenChilli",
+      "category": ["8"],
+      "Price": 65,
+      "Quantity": 1
+    },
+    {
+      "_id": "113",
+      "title": "Tops Gulab Jamun 500gms",
+      "image": "./images/MY list grocery Images/Miss/TopsGulabJamun.jpg",
+      "description": "TopsGulabJamun",
+      "category": ["8"],
+      "Price": 178,
+      "Quantity": 1
+    },
+    {
+      "_id": "114",
+      "title": "Tops Instant Mix Gulab Jamun 200gms",
+      "image": "./images/MY list grocery Images/Miss/TopsInstantMixGulabJamun.jpg",
+      "description": "TopsInstantMixGulabJamun",
+      "category": ["8"],
+      "Price": 88,
+      "Quantity": 1
+    },
+    {
+      "_id": "115",
+      "title": "Tops Snack Sauce",
+      "image": "./images/MY list grocery Images/Miss/TopsSnackSauce.jpg",
+      "description": "TopsSnackSauce",
+      "category": ["8"],
+      "Price": 80,
+      "Quantity": 1
+    },
+    {
+      "_id": "116",
+      "title": "Tops Snack Sauce 200gms",
+      "image": "./images/MY list grocery Images/Miss/TopsSnackSaucesmall.jpg",
+      "description": "TopsSnackSaucesmall",
+      "category": ["8"],
+      "Price": 40,
+      "Quantity": 1
+    },
+    {
+      "_id": "117",
+      "title": "Veg Pro soya Chunks 200gm",
+      "image": "./images/MY list grocery Images/Miss/VegProsoyaChunks200gm.jpg",
+      "description": "VegProsoyaChunks200gm",
+      "category": ["8"],
+      "Price": 45,
+      "Quantity": 1
+    },
+    {
+      "_id": "118",
+      "title": "Veg Pro Soya Granules 1kg",
+      "image": "./images/MY list grocery Images/Miss/VegProSOyaGranules.jpg",
+      "description": "VegProSOyaGranules",
+      "category": ["8"],
+      "Price": 140,
+      "Quantity": 1
+    },
+
+    {
+      "_id": "119",
+      "title": "Wagh bakri tea 250gm",
+      "image": "./images/MY list grocery Images/Miss/Waghbakritea250gm.jpg",
+      "description": "Waghbakritea250gm",
+      "category": ["8"],
+      "Price": 110,
+      "Quantity": 1
+    },
+    {
+      "_id": "120",
+      "title": "Yash bikanerwala namkeen pudina boondi 400gms",
+      "image": "./images/MY list grocery Images/Miss/yashbikanerwalanamkeenpudinaboond400gms.jpg",
+      "description": "yashbikanerwalanamkeenpudinaboond400gms",
+      "category": ["8"],
+      "Price": 60,
+      "Quantity": 1
     }
   ]
 }
